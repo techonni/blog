@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`Made with Framer`,favicon:`https://framerusercontent.com/assets/pMeXCN7WlrAOe0BZbXSG3kU4NUI.png`,robots:`max-image-preview:large`,title:`Mark Walker – Minimal Blog Template`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BvKytXhD.mjs.map
